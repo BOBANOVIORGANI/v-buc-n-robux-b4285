@@ -46,14 +46,7 @@
         }
     },
     "footer": {
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/stackbit-themes",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "title": "Contact details",
             "phoneNumber": "850-123-5021",
