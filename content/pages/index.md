@@ -88,5 +88,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Wanna have some V-Bucks or Robux but do
+    title: >-
+      Wanna have some V-Bucks or Robux but don't have money for it. We've got
+      you.
 ---
