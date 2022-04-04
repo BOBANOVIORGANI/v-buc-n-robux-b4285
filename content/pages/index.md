@@ -54,7 +54,7 @@ sections:
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
     actions:
-      - label: Try it now
+      - label: Get V-Bucks
         altText: ''
         url: /
         showIcon: true
