@@ -62,6 +62,15 @@ sections:
         iconPosition: right
         style: primary
         type: Button
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     styles:
       self:
         height: auto
