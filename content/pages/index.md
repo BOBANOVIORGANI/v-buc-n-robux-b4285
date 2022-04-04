@@ -46,7 +46,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - type: CtaSection
-    colors: colors-c
+    colors: colors-a
     elementId: ''
     backgroundSize: full
     text: >
