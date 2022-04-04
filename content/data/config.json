@@ -25,13 +25,6 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/stackbit",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/stackbit-themes",
