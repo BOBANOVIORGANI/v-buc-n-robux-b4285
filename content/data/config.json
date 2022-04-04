@@ -9,7 +9,8 @@
             {
                 "type": "Link",
                 "label": "Get now",
-                "url": "https://bit.ly/3K91Oll"
+                "url": "https://bit.ly/3K91Oll",
+                "iconPosition": "right"
             }
         ],
         "socialLinks": [],
