@@ -63,7 +63,7 @@ sections:
         style: primary
         type: Button
       - type: Button
-        label: Learn more
+        label: Get Robux
         altText: ''
         url: /
         showIcon: false
