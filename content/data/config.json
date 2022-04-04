@@ -21,7 +21,6 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/f8upBwMu-ea4e6fc5.webp",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
