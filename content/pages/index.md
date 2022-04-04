@@ -52,7 +52,7 @@ sections:
     actions:
       - label: Get V-Bucks
         altText: ''
-        url: /
+        url: 'https://bit.ly/3K91Oll'
         showIcon: false
         icon: arrowRight
         iconPosition: right
