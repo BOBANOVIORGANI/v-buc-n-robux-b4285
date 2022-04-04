@@ -88,5 +88,5 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Wanna have some robux but
+    title: Wanna have some V-Bucks or Robux but
 ---
