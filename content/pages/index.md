@@ -87,4 +87,5 @@ sections:
         justifyContent: center
     title: Get them now
 metaTitle: V-Buc n' Robux
+socialImage: /images/fortnite-v-bucks-free.webp
 ---
