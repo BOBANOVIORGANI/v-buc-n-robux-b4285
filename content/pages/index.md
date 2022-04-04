@@ -88,5 +88,5 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Get it now
+    title: Get them now
 ---
