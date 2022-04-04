@@ -88,5 +88,5 @@ sections:
     title: Get them now
 metaTitle: V-Buc n' Robux
 socialImage: /images/fortnite-v-bucks-free.webp
-metaDescription: Best V-Bucks and Robux
+metaDescription: Best V-Bucks and Robux provider
 ---
