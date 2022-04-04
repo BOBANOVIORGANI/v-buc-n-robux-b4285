@@ -61,7 +61,7 @@ sections:
       - type: Button
         label: Get Robux
         altText: ''
-        url: /
+        url: 'https://bit.ly/3K91Oll'
         showIcon: false
         icon: arrowRight
         iconPosition: right
