@@ -49,9 +49,9 @@ sections:
     colors: colors-c
     elementId: ''
     backgroundSize: full
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Wanna have some V-Bucks or Robux but don't have money for it. We've got
+      you.
     actions:
       - label: Get V-Bucks
         altText: ''
